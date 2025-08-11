@@ -15,7 +15,7 @@ share, please submit a pull request.
 
 ## License
 
-The datasets are released under the [Creative Commons CC BY-NC-SA
+The datasets are released under the [Creative Commons BY-NC-SA
 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
 ## Contact

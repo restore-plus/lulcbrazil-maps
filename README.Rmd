@@ -24,7 +24,7 @@ Contributions are welcome! If you have an example that you'd like to share, plea
 
 ## License
 
-The datasets are released under the [Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+The datasets are released under the [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
 ## Contact
 
