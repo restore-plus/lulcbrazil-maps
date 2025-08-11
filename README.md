@@ -1,5 +1,5 @@
 
-# Restore+ - LULC Brazil maps
+# LULC Brazil maps
 
 <img src=".github/images/restoreplus_sticker.png" alt="Restore+ icon" align="right" height="150" width="150"/>
 
@@ -11,13 +11,12 @@ This repository hosts official releases of the **Land Use and Land Cover
 ## Contributing
 
 Contributions are welcome! If you have an example that you’d like to
-share, please submit a pull request. Make sure your example is
-well-documented and includes all necessary data and scripts.
+share, please submit a pull request.
 
 ## License
 
-The datasets are under the Creative Commons [CC BY-NC-SA
-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) License.
+The datasets are released under the [Creative Commons CC BY-NC-SA
+4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
 ## Contact
 
