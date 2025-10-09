@@ -15,6 +15,7 @@ below.
 
 ### Amazon LULC Maps 2015-2022 (All ecoregions - v2)
 
+- **Release date**: 2025/10/09
 - **Temporal coverage**: 2015 - 2022
 - **Temporal frequency**: Yearly
 - **Spatial coverage**: All ecoregions (Amazon)
@@ -25,6 +26,7 @@ below.
 
 ### Amazon LULC Maps 2015-2022 (All ecoregions - v1)
 
+- **Release date**: 2025/10/02
 - **Temporal coverage**: 2015 - 2022
 - **Temporal frequency**: Yearly
 - **Spatial coverage**: All ecoregions (Amazon)
@@ -35,6 +37,7 @@ below.
 
 ### Amazon LULC Maps 2015-2024 (Ecoregion 3)
 
+- **Release date**: 2025/08/11
 - **Temporal coverage**: 2015 - 2024
 - **Temporal frequency**: Yearly
 - **Spatial coverage**: Ecoregion 3
