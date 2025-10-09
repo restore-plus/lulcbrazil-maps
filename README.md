@@ -1,5 +1,5 @@
 
-# LULC Brazil maps
+# Restore+ \| LULC Maps
 
 <img src=".github/images/restoreplus_sticker.png" alt="Restore+ icon" align="right" height="150" width="150"/>
 
@@ -7,6 +7,43 @@
 
 This repository hosts official releases of the **Land Use and Land Cover
 (LULC) Brazil maps** produced as part of the *Restore+ Project*.
+
+# Releases
+
+The latest releases of the Restore+ maps are listed in the sections
+below.
+
+### Amazon LULC Maps 2015-2022 (All ecoregions - v2)
+
+- **Temporal coverage**: 2015 - 2022
+- **Temporal frequency**: Yearly
+- **Spatial coverage**: All ecoregions (Amazon)
+- **Download**: [Click
+  here](https://github.com/restore-plus/lulcbrazil-maps/releases/tag/amazon-allregions-v2)
+
+------------------------------------------------------------------------
+
+### Amazon LULC Maps 2015-2022 (All ecoregions - v1)
+
+- **Temporal coverage**: 2015 - 2022
+- **Temporal frequency**: Yearly
+- **Spatial coverage**: All ecoregions (Amazon)
+- **Download**: [Click
+  here](https://github.com/restore-plus/lulcbrazil-maps/releases/tag/amazon-allregions-v1)
+
+------------------------------------------------------------------------
+
+### Amazon LULC Maps 2015-2024 (Ecoregion 3)
+
+- **Temporal coverage**: 2015 - 2024
+- **Temporal frequency**: Yearly
+- **Spatial coverage**: Ecoregion 3
+- **Download**: [Click
+  here](https://github.com/restore-plus/lulcbrazil-maps/releases/tag/lulc-ecoregion3-v1)
+
+To access older versions of the Restore+ maps, please, access the
+[releases
+page](https://github.com/restore-plus/lulcbrazil-maps/releases).
 
 ## Contributing
 
